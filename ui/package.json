@@ -198,7 +198,7 @@
     "typescript": "^4.8.4",
     "walk-sync": "^2.0.2",
     "webpack": "5.73.0",
-    "xstate": "^3.3.3"
+    "xstate": "^4.35.4"
   },
   "optionalDependencies": {
     "@babel/core": "^7.12.3",
