@@ -91,7 +91,7 @@
     "@types/ember__utils": "^4.0.2",
     "@types/qunit": "^2.19.3",
     "@types/rsvp": "^4.0.4",
-    "@typescript-eslint/eslint-plugin": "^5.19.0",
+    "@typescript-eslint/eslint-plugin": "^5.51.0",
     "@typescript-eslint/parser": "^5.19.0",
     "asn1js": "^2.2.0",
     "autosize": "^4.0.0",
